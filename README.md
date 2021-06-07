@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @Spazzaroth
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 I'm a new programmer hoping to learn solidity and blockchain development.
-I'm about done with my first javascript class and I'm hoping to move straight into a solidity bootcamp.
 
-I'd love to collaborate iwth anyone who would like to mentor a new programmer.
+I've decided to start with javascript and move on from there.  I practice every day with codewars.com and other exercises and my goal is to learn solidity and start working on crypto projects before my covid stimulus money runs out.  real life goals.
 
-I can be emailed at, jerikaye@gmail.com
+I'd love to collaborate with anyone who would like to mentor a new programmer.
+
+I can be emailed at, spazzaroth@gmail.com
