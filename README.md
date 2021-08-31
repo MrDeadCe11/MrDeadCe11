@@ -1,7 +1,7 @@
-I'm a new programmer hoping to learn solidity and blockchain development.
+The best web 3 dev in my area.  If you have a problem, I can solve it.  My interests lie in blockchain psychology, online identity, governance and satire.
 
-I've decided to start with javascript and move on from there.  I practice every day with codewars.com and other exercises and my goal is to learn solidity and start working on crypto projects before my covid stimulus money runs out.  real life goals.
-
-I'd love to collaborate with anyone who would like to mentor a new programmer.
+languages: Solidity, python, rust, css, html, react, vue, haskell and JS.
 
 I can be emailed at, spazzaroth@gmail.com
+
+I have no idea what I'm doing.
