@@ -2,6 +2,6 @@ The best Solidity dev in my area.  If you have a problem, I can solve it.  My in
 
 languages: Solidity, Javascript, node.js, vue.js
 
-I can be emailed at, spazzaroth@gmail.com
+twitter: https://twitter.com/MDeadcells
 
 I have no idea what I'm doing.
