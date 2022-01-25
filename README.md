@@ -4,9 +4,9 @@ languages: Solidity, Javascript, typescript, html, css
 
 frameworks: Truffle, Vue3, Tailwind
 
-libraries: EthersJs, Web3
+libraries: EthersJs, Web3, chai
 
-other keywords: Hardhat, Vite, ganache, mocha, chai
+other keywords: Hardhat, Vite, ganache, mocha
 
 twitter: https://twitter.com/MDeadcells
 DM for more contact info.
