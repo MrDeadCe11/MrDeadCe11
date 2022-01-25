@@ -2,11 +2,11 @@ The best Solidity dev in my area.  If you have a problem, I can solve it.  My in
 
 languages: Solidity, Javascript, typescript, html, css
 
-frameworks: Vue3, Tailwind
+frameworks: Truffle, Vue3, Tailwind
 
 libraries: EthersJs, Web3
 
-other keywords: Hardhat, Vite, truffle, ganache, mocha, chai
+other keywords: Hardhat, Vite, ganache, mocha, chai
 
 twitter: https://twitter.com/MDeadcells
 DM for more contact info.
