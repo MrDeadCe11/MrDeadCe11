@@ -9,3 +9,4 @@ libraries: EthersJs, Web3
 other keywords: Hardhat, Vite, truffle, ganache, mocha, chai
 
 twitter: https://twitter.com/MDeadcells
+DM for more contact info.
