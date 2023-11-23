@@ -2,7 +2,7 @@ The best web3 dev in my area.  If you have a problem, I can solve it.  My intere
 
 languages: Solidity, Javascript, Typescript, html, css
 
-frameworks: Truffle, Vue3, Tailwind, mocha
+frameworks: Truffle, Vue3, Tailwind, mocha, react
 
 libraries: EthersJs, Web3, chai
 
