@@ -8,5 +8,4 @@ libraries: EthersJs, Web3, chai
 
 other keywords: Hardhat, Foundry, Vite, ganache
 
-twitter: https://twitter.com/MDeadcells
-DM for more contact info.
+[DM](https://x.com/MDeadcells) for more contact info.
